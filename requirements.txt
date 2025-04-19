@@ -1,1 +1,5 @@
 opencv-python
+easyocr
+numpy
+matplotlib
+pillow
